@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1243 262" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Plan-de-travail1" serif:id="Plan de travail1" transform="matrix(1.01471,0,0,1,-0.370402,1.91667)">
+        <rect x="0.365" y="-1.917" width="1224.85" height="261.333" style="fill:none;"/>
+        <clipPath id="_clip1">
+            <rect x="0.365" y="-1.917" width="1224.85" height="261.333"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <g transform="matrix(0.985501,0,0,1,0.365032,0.0833334)">
+                <path d="M154.078,31.037L153,30.415C134.436,19.697 111.564,19.697 93,30.415L50.89,54.727C32.326,65.445 20.89,85.252 20.89,106.688L20.89,155.312C20.89,176.748 32.326,196.556 50.89,207.273L93,231.585C111.564,242.303 134.436,242.303 153,231.585L195.11,207.273C213.674,196.556 225.11,176.748 225.11,155.312L225.11,106.688C225.11,90.913 218.916,76.02 208.247,64.983C213.476,60.516 217.314,54.467 219.02,47.578C235.447,62.56 245.11,83.936 245.11,106.688L245.11,155.312C245.11,183.893 229.862,210.303 205.11,224.594L163,248.906C138.248,263.197 107.752,263.197 83,248.906L40.89,224.594C16.138,210.303 0.89,183.893 0.89,155.312L0.89,106.688C0.89,78.107 16.138,51.697 40.89,37.406L83,13.094C107.752,-1.197 138.248,-1.197 163,13.094L164.691,14.07C159.591,18.449 155.823,24.334 154.078,31.037Z" style="fill:url(#_Radial2);"/>
+            </g>
+            <g transform="matrix(0.985501,0,0,1,0.365032,0.0833334)">
+                <path d="M64,131.5C64,99.191 90.191,73 122.5,73C154.809,73 181,99.191 181,131.5C181,163.809 154.809,190 122.5,190C90.191,190 64,163.809 64,131.5Z" style="fill:url(#_Linear3);fill-rule:nonzero;"/>
+            </g>
+            <g transform="matrix(0.985501,0,0,1,0.365032,0.0833334)">
+                <path d="M209,38.5C209,26.082 198.918,16 186.5,16C174.082,16 164,26.082 164,38.5C164,50.918 174.082,61 186.5,61C198.918,61 209,50.918 209,38.5Z" style="fill:rgb(13,203,253);"/>
+            </g>
+            <g transform="matrix(0.985501,2.44929e-16,-2.41378e-16,1,-8.17598,6.75)">
+                <text x="263.235px" y="183.417px" style="font-family:'Verdana-Bold', 'Verdana', sans-serif;font-weight:700;font-size:159px;fill:rgb(20,65,80);">Schedulers</text>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <radialGradient id="_Radial2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(63.2201,-105.362,102.926,61.7583,123,131)"><stop offset="0" style="stop-color:rgb(1,254,230);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(14,200,254);stop-opacity:1"/></radialGradient>
+        <linearGradient id="_Linear3" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-117,1.43284e-14,-1.43284e-14,-117,181,131)"><stop offset="0" style="stop-color:rgb(1,254,230);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(13,203,253);stop-opacity:1"/></linearGradient>
+    </defs>
+</svg>

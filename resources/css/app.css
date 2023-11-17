@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+/* .router-link-active */.router-link-exact-active{ 
+    @apply relative text-white bg-gradient-to-r from-sky-600 to-cyan-400 !important;
+
+}
