@@ -6,6 +6,8 @@ import register from "../pages/auth/register.vue";
 import notes from "../pages/notes/index.vue"
 import forbidden from "../pages/errors/forbidden.vue";
 
+import useState from "../services/state.js"
+
 const routes = [
 
     // auth
@@ -21,7 +23,7 @@ const routes = [
 
     {
         path: "/inscription",
-        name: "login",
+        name: "register",
         meta: {
             title: "Cree un compte",
         },
@@ -63,9 +65,15 @@ const router = createRouter({
     routes: routes,
 });
 
+
+const {state} = useState()
 router.beforeEach((to, from, next) => {
     document.title = to.meta.title;
-    next();
+    if (to.meta.requireAuth && !state.token) {
+        next({ name: "login" });
+    } else {
+        next();
+    }
 });
 
 export default router;
